@@ -1,0 +1,1 @@
+docker run -e SQL_SERVER='192.168.50.211' -e SQL_USER='test_user' -e SQL_PASS='test_password' -e SQL_DB='test_database' debian_test
